@@ -49,5 +49,5 @@ def main():
 
 
 
-# running main
+# call main
 main()
